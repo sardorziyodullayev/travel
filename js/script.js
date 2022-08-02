@@ -1,4 +1,5 @@
 var elText = document.querySelector(".text");
+var text = document.querySelector(".text").style.fontSize = '40px'
 
 var result = Number(prompt("Qancha pulingiz bor?").trim());
 
